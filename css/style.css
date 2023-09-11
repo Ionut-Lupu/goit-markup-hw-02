@@ -116,6 +116,11 @@ h1 {
   cursor: pointer;
   border: unset;
 }
+.btn-filter:focus {
+  font-family: inherit;
+  color: #fff;
+  background: #2196f3;
+}
 h2 {
   color: #212121;
   text-align: center;
